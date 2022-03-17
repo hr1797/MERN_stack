@@ -1,0 +1,23 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node public/server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hr1797/MERN_stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hr1797/MERN_stack/issues"
+  },
+  "homepage": "https://github.com/hr1797/MERN_stack#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
